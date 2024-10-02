@@ -26,3 +26,5 @@ app.get("/", function (req, res) {
 app.listen(3000, function () {
     console.log("server is running");
 });
+
+// http://api.weatherapi.com/v1/current.json?key=e59217de1a6c48dda54124038240210&q=ladwa
